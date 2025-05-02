@@ -11,8 +11,10 @@ redirect_from:
 
 Education
 ======
-* M.S. in Biological Sciences (Molecular Biology), Indian Institute of Science Education and Research (IISER) Kolkata, 2021
-* B.Sc. in Life Science, University of Burdwan, 2018
+* Ph.D in Genomics and Bionformatics, CSIR-Institute of Genomics and Integrative Biology (IGIB), New Delhi, 2024-Present
+* Ph.D in Biological Sciences (Biochemistry), Indian Institute of Science Education and Research (IISER) Kolkata, 2021-2022 [Discontinued]
+* M.S. by Research in Biological Sciences (Molecular Evolution), Indian Institute of Science Education and Research (IISER) Kolkata, 2018-2021
+* B.Sc. in Life Science, University of Burdwan, 2015-2018
 
 Work experience
 ======
