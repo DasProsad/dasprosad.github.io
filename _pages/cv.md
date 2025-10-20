@@ -16,31 +16,37 @@ Education
 * M.S. by Research in Biological Sciences (Molecular Evolution), Indian Institute of Science Education and Research (IISER)-Kolkata, 2018-2021
 * B.Sc. in Life Science (Chemistry, Mathematics, Botany, Zoology), University of Burdwan, 2015-2018
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2019: Research Assistant
+  * IISER-Kolkata, Kolkata, India
+  * Project: Dissection of p53-mdm2-HuR oscillatory feedback loop by identifying regulatory regions in HuR 5'-UTR.
+  * Supervisor: Dr. Partho Sarothi Ray
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2018: Research Assistant
+  * IISER-Kolkata, Kolkata, India
+  * Project: Altered mutation-directed folding dynamics of HIV-1 protease using all-atom molecular dynamics simulations.
+  * Supervisor: Dr. Neelanjana SenGupta
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2018: Research Assistant
+  * IISER-Kolkata, Kolkata, India
+  * Project: Engineering of $\beta$-glucosidase from Bacillus sp. via targeted mutagenesis to reduce end-product-mediated negative feedback inhbition.
+  * Supervisor: Prof. Supratim Datta
+
+* Summer 2018: Research Assistant
+  * IISER-Kolkata, Kolkata, India
+  * Project: Directed mutagenesis of tandem SH2 (tSH2) domain of human ZAP70 kinase to understand role of conserved residues in binding of ITAM peptides via kinetic fluroscence spectroscopy.
+  * Supervisor: Dr. Rahul Das
   
 Skills
 ======
 * Biochemistry
-* Molecular Biology
+* Molecular Biology/Synthetic Biology
 * Computer Science
 * Bioinformatics
 * Computational Biology
 * CRISPR-Cas
+* Molecular Evolution
 
 Publications
 ======
