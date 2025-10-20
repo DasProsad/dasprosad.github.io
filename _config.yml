@@ -21,10 +21,10 @@ repository               : "dasprosad/dasprosad.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile_1.png"
   name             : "Prosad Kumar Das"
   pronouns         : # example: "she/her"  
-  bio              : "I am currently doing my Ph.D in personalised genomics and CRISPR-Dx with Dr. Debojyoti Chakraborty at CSIR-IGIB. I am interested in and use methods from evolutionary biology, computer science, and bioinformatics for my thesis work."
+  bio              : "I am currently doing my Ph.D in personalised genomics and CRISPR-Dx with Dr. Debojyoti Chakraborty at CSIR-IGIB. I am currently a research project associate at CSIR-IGIB located in New Delhi. I was a M.S. student at IISER-Kolkata where I majored in in Biology and minored in Computer Science. I am trying to develop computational and NGS-based platform technologies for tranformative health."
   location         : "New Delhi"
   employer         : "CSIR-IGIB"
   uri              : # URL
